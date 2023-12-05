@@ -267,7 +267,7 @@ h1.strong{
     cursor: pointer;
 }
 
-.content-desctiption, .gallery-content__black{
+.content-description, .gallery-content__black{
     display: flex;
     flex-direction: column;
     row-gap: 32px;
@@ -297,7 +297,7 @@ h1.strong{
 
 }
 
-.content-desctiption{
+.content-description{
     width: 350px;
 }
 
